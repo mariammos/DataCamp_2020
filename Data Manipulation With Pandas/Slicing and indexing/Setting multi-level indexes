@@ -1,0 +1,14 @@
+# Instructions
+#In the map() call, pass a lambda function that concatenates the string '!!!' to a string item; also pass the list of strings, spells. Assign the resulting map object to shout_spells.
+#Convert shout_spells to a list and print out the list.
+
+CODE
+
+# Index temperatures by country & city
+temperatures_ind = ____
+
+# List of tuples: Brazil, Rio De Janeiro & Pakistan, Lahore
+rows_to_keep = [____]
+
+# Subset for rows to keep
+print(temperatures_ind.____)
