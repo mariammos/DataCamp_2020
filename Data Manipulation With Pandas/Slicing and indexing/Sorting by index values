@@ -1,0 +1,7 @@
+#Instructions
+#Sort temperatures_ind by the index values.
+#Sort temperatures_ind by the index values at the "city" level.
+#Sort temperatures_ind by ascending country then descending city.
+
+CODE
+
